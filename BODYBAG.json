@@ -1,14 +1,9 @@
 {
-    "ip": [
+    "license": [
       {
-        "name": "Me",
-        "id": "102.129.138.131",
-        "keys": "SXFF:STP1001"
-      }
-        {
-        "name": "UNKNOW",
-        "id": "102.129.138.131",
-        "keys": "SXFF:STP1002"
+        "name": "mackillss1",
+        "ip": "102.129.138.131",
+        "key": "SXFF_5S9S8W3X"
       }
     ]
   }
